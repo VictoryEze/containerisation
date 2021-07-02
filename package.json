@@ -1,0 +1,18 @@
+{
+    "name": "nodejs-image-demo",
+    "version": "1.0.0",
+    "description": "nodejs image demo",
+    "author": "VictoryEze <victorious919@gmail.com>",
+    "license": "MIT",
+    "main": "app.js",
+    "keywords": [
+        "nodejs",
+        "bootstrap",
+        "express",
+        "docker",
+        "kubernetics"
+    ],
+    "dependencies": {
+        "express": "^4.16.4"
+    }
+}
